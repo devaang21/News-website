@@ -1,2 +1,2 @@
-# shopping-website
-Shopping website using django
+# News-website
+website created using node to fetch news
